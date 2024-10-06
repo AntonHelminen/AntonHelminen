@@ -1,6 +1,6 @@
-## Course projects:
-Here are some of my course projects that I have completed during my studies.
+## Fun projects:
+
 | Title | Description | Link | Languages |
 |---|---|---|---|
-
+Dude's bizarre boss battle
 
